@@ -1,24 +1,23 @@
 {
-    "name": "lilys-baileys",
-    "version": "1.3.3",
-    "description": "Whatsapp baileys coded by Fallzx-Coderid.",
+    "name": "@kkeizza/baileys",
+    "version": "1.0.0",
+    "description": "Whatsapp baileys.",
     "keywords": [
         "whatsapp",
-        "lily-baileys",
+        "keithbaileys",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
-        "fallzx",
         "wabot",
         "botwa",
-        "stvnnvs"
+        "bot"
     ],
-    "homepage": "https://github.com/FallEzz/baileys-corp.git",
+    "homepage": "",
     "repository": {
-        "url": "https://github.com/FallEzz/baileys-corp.git"
+        "url": ""
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "keithkeizzah",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
